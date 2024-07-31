@@ -74,4 +74,4 @@ Modify the HTML content in `index.php` to personalize the text and tasks.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Contributors
-- [Obada Kraishan](https://github.com/obadaKraishan)
+- [Ismael Mouloungui](https://github.com/bobodiouf)
